@@ -1,0 +1,14 @@
+.font-edit{
+    font-size: 28px;
+    font-style: `Helvetica`,`Times New Roman`,`sans-serif` ;
+}
+
+.blackbutton{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellowbutton{
+    background-color: yellow;
+}
