@@ -1,0 +1,21 @@
+*{
+    color: black;
+}
+
+p{
+    background-color: pink;
+    font-style: verdana, "DejaVu Sans", sans-serif;
+}
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+}
